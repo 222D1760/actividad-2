@@ -60,6 +60,7 @@
     <Compile Include="Assets\Script\movimineto.cs" />
     <Compile Include="Assets\Script\rotation.cs" />
     <Compile Include="Assets\Script\tanque.cs" />
+    <Compile Include="Assets\Script\moveryrotar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
